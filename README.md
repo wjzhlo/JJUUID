@@ -25,4 +25,4 @@ let uuid = JJUUID.uuid()
 
 ### 其他备注
 
-Swift 是由 Objective-C 代码改写而来。
+Swift 是由 Objective-C 代码改写而来，语言版本 Swift 5.2，XCode版本 13.2.1
